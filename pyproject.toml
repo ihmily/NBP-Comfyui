@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-google-imagen"
+version = "1.0.0"
+description = "ComfyUI custom nodes for Google Imagen 4 and Nano Banana image generation"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=1.14.0",
+    "requests>=2.28.0",
+    "Pillow>=9.0.0",
+]
+
+[project.urls]
+Repository = "https://github.com/your-username/ComfyUI-Google-Imagen"
