@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/your-username/ComfyUI-Google-Imagen"
+Repository = "https://github.com/fwlemos/NBP-Comfyui"
